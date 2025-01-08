@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @almustarpha
 - 👀 I’m interested in web design/development and digital advertising 
-- 🌱 I’m currently learning wordpress, and hope to learn other<br>programming language in the nearest future
+- 🌱 I’m currently learning wordpress, and hope to learn<br>other programming language'
 - 💞️ I’m looking forward to collaborate in the nearest future 
 - 📫 Reach me on WhatsApp: https://wa.link/83hazx
 - 😄 Pronouns: he/him/his
